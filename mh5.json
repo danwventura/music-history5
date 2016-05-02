@@ -1,0 +1,20 @@
+{
+  "songs":[
+  {
+    "name": "Lower the Heavens",
+    "artist": "The Donkeys",
+    "album" : "Donkeys"
+  },
+  {
+    "name": "Tub Thumpin'",
+    "artist": "Chumbawumba",
+    "album" : "Tub Thumper"
+  },
+  {
+    "name": "Run On",
+    "artist": "Moby",
+    "album" : "Play"
+  }
+  ]
+}
+

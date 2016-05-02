@@ -1,0 +1,19 @@
+{
+  "songs":[
+  {
+    "name": "Breathe",
+    "artist": "Telepopmusik",
+    "album" : "Genetic World"
+  },
+  {
+    "name": "Who Did That To You?",
+    "artist": "John Legend",
+    "album" : "Django Unchained"
+  },
+  {
+    "name": "How You Like Me Now",
+    "artist": "The Heavy",
+    "album" : "The House That Dirt Built"
+  }
+  ]
+}
